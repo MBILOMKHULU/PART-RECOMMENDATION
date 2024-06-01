@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background for the EditText fields -->
+    <item android:id="@+id/edit_text_background">
+        <shape android:shape="rectangle">
+            <corners android:radius="10dp" /> <!-- Adjust the radius as needed -->
+            <solid android:color="#ffffff" /> <!-- Background color of the text input fields -->
+        </shape>
+    </item>
+
+    <!-- Background for the Button -->
+    <item android:id="@+id/button_background">
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" /> <!-- Adjust the radius as needed -->
+            <solid android:color="#3f51b5" /> <!-- Background color of the button -->
+        </shape>
+    </item>
+
+</layer-list>

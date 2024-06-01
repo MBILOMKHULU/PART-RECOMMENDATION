@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_sign5.jpg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/sign5.jpg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_text_corn.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/text_corn.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_four.jpeg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/four.jpeg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_sign3.jpg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/sign3.jpg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/layout_activity_login.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/layout_activity_main2.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_five.jpeg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/five.jpeg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_six.jpeg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/six.jpeg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_three.jpeg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/three.jpeg"
+    },
+    {
+        "merged": "com.example.dishcovery1.app-debug-45:/layout_activity_main2.xml.flat",
+        "source": "com.example.dishcovery1.app-main-47:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/layout_fragment_dashboard.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/navigation_mobile_navigation.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_rating.avif.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/rating.avif"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_rating1.jpg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/rating1.jpg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/layout_activity_sign.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/layout/activity_sign.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/layout_fragment_home.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_sign.jpg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/sign.jpg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_sign2.png.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/sign2.png"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_round_corner.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/round_corner.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/layout_fragment_notifications.xml.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_two.jpeg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/two.jpeg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_one.jpeg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/one.jpeg"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-debug-45:/drawable_image.jpg.flat",
+        "source": "/home/kuhle/.gradle/daemon/8.6/com.example.dishcovery1.app-main-47:/drawable/image.jpg"
+    }
+]
